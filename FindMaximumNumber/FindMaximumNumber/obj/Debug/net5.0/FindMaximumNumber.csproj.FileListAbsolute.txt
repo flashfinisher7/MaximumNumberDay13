@@ -1,0 +1,16 @@
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\bin\Debug\net5.0\FindMaximumNumber.exe
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\bin\Debug\net5.0\FindMaximumNumber.deps.json
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\bin\Debug\net5.0\FindMaximumNumber.runtimeconfig.json
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\bin\Debug\net5.0\FindMaximumNumber.runtimeconfig.dev.json
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\bin\Debug\net5.0\FindMaximumNumber.dll
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\bin\Debug\net5.0\ref\FindMaximumNumber.dll
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\bin\Debug\net5.0\FindMaximumNumber.pdb
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\obj\Debug\net5.0\FindMaximumNumber.csproj.AssemblyReference.cache
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\obj\Debug\net5.0\FindMaximumNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\obj\Debug\net5.0\FindMaximumNumber.AssemblyInfoInputs.cache
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\obj\Debug\net5.0\FindMaximumNumber.AssemblyInfo.cs
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\obj\Debug\net5.0\FindMaximumNumber.csproj.CoreCompileInputs.cache
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\obj\Debug\net5.0\FindMaximumNumber.dll
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\obj\Debug\net5.0\ref\FindMaximumNumber.dll
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\obj\Debug\net5.0\FindMaximumNumber.pdb
+C:\Users\mvsan\fellowship_program\day13\FindMaximumNumber\FindMaximumNumber\FindMaximumNumber\obj\Debug\net5.0\FindMaximumNumber.genruntimeconfig.cache
